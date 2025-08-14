@@ -5,9 +5,6 @@
 词条
 
 // name
-阿尔法:Alpha
-贝塔:Beta
-欧米茄:Omega
 热身赛:热潮
 车辙:发情潮
 热潮:发情期
@@ -16,50 +13,6 @@
 触发器:诱发
 认领:标记
 编号:性别
-马克斯:Max
-凯莉:Kelly
-亚瑟:Arthur
-弗雷德:Fred
-皮埃尔:Pierre
-马蒂亚:Mattia
-乔斯:Jos
-卡洛斯:Carlos
-克里斯蒂安:Christian
-尼科:Nico
-刘易斯:Lewis
-汉密尔顿:Hamilton
-罗斯伯格:Rosberg
-勒克莱尔:Leclerc
-夏尔:Charles
-查理:Charlie
-塞布:Seb
-奥斯卡:Oscar
-兰多:Lando
-亚历克斯:Alex
-利亚姆:Liam
-皮亚斯特里:Piastri
-诺里斯:Norris
-马克:Mark
-费尔南多:Fernando
-费特雷尔:Fewtrell
-劳森:Lawson
-丹尼尔:Daniel
-里卡多:Ricciardo
-乔治:George
-韦伯:Webber
-切科:Checo
-拉塞尔:Russell
-塞恩斯:Sainz
-埃斯特班:Esteban
-尤基:Yuki
-塞巴斯蒂安:Sebastian
-维特尔:Vettel
-拉屎:Shit
-托托:Toto
-沃尔夫:Wolff
-基督教:Christian
-朱尔斯:Jules
-梨子:Pear
 
 //English name
 Max Verstappen:Max Verstappen
