@@ -129,8 +129,11 @@ Bearman：Bearman
 
 //ABO
 Alpha：Alpha
+Alphas：Alphas
 Beta：Beta
+Betas：Betas
 Omega：Omega
+Omegas：Omegas
 Secondary gender：第二性别
 Presentation：分化
 Differentiation：分化
