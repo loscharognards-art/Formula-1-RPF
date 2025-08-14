@@ -1,5 +1,5 @@
 维护者：S
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2025-08-14
 
 词条
@@ -115,3 +115,25 @@ Mpreg：生子
 Surprise heat：意外发情
 Unscheduled heat：意外发情
 Suppressants failure：抑制剂失效
+
+//F1
+Grid：发车区
+Track：赛道
+Circuit：赛道
+Pit lane：维修区
+Pit stop：维修站
+Line-up：赛车阵容
+Field：赛车阵容
+Season：赛季
+Grand Prix：分站赛
+GP：分站赛
+Championship standings：冠军积分榜
+Safety car：赛道安全车
+Qualifying：排位赛
+Race：正赛
+Main race：正赛
+Podium：领奖台
+Team：车队
+Constructor：车队
+Driver：车手
+DRS zone：进攻窗口
