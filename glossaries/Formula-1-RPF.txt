@@ -4,160 +4,155 @@
 
 词条
 
-
 // name
-Max:Max
+阿尔法:Alpha
+贝塔:Beta
+欧米茄:Omega
+热身赛:热潮
+车辙:发情潮
+热潮:发情期
+热情:发情期
+预赛:发情期
+触发器:诱发
+认领:标记
+编号:性别
 马克斯:Max
+凯莉:Kelly
+亚瑟:Arthur
+弗雷德:Fred
+皮埃尔:Pierre
+马蒂亚:Mattia
+乔斯:Jos
+卡洛斯:Carlos
+克里斯蒂安:Christian
+尼科:Nico
+刘易斯:Lewis
+汉密尔顿:Hamilton
+罗斯伯格:Rosberg
+勒克莱尔:Leclerc
+夏尔:Charles
+查理:Charlie
+塞布:Seb
+奥斯卡:Oscar
+兰多:Lando
+亚历克斯:Alex
+利亚姆:Liam
+皮亚斯特里:Piastri
+诺里斯:Norris
+马克:Mark
+费尔南多:Fernando
+费特雷尔:Fewtrell
+劳森:Lawson
+丹尼尔:Daniel
+里卡多:Ricciardo
+乔治:George
+韦伯:Webber
+切科:Checo
+拉塞尔:Russell
+塞恩斯:Sainz
+埃斯特班:Esteban
+尤基:Yuki
+塞巴斯蒂安:Sebastian
+维特尔:Vettel
+拉屎:Shit
+托托:Toto
+沃尔夫:Wolff
+基督教:Christian
+朱尔斯:Jules
+梨子:Pear
+
+//English name
+Max Verstappen:Max Verstappen
+Max:Max
 Verstappen:Verstappen
-维斯塔潘:
-维斯塔潘:
+Sergio Perez:Sergio Perez
+Sergio:Sergio
+Perez:Perez
+Charles Leclerc:Charles Leclerc
+Charles:Charles
+Leclerc:Leclerc
+Carlos Sainz:Carlos Sainz
+Carlos:Carlos
+Sainz:Sainz
+Lewis Hamilton:Lewis Hamilton
+Lewis:Lewis
+Hamilton:Hamilton
+George Russell:George Russell
+George:George
+Russell:Russell
+Lando Norris:Lando Norris
+Lando:Lando
+Norris:Norris
+Oscar Piastri:Oscar Piastri
+Oscar:Oscar
+Piastri:Piastri
+Fernando Alonso:Fernando Alonso
+Fernando:Fernando
+Alonso:Alonso
+Lance Stroll:Lance Stroll
+Lance:Lance
+Stroll:Stroll
+Esteban Ocon:Esteban Ocon
+Esteban:Esteban
+Ocon:Ocon
+Pierre Gasly:Pierre Gasly
+Pierre:Pierre
+Gasly:Gasly
+Yuki Tsunoda:Yuki Tsunoda
+Yuki:Yuki
+Tsunoda:Tsunoda
+Daniel Ricciardo:Daniel Ricciardo
+Daniel:Daniel
+Ricciardo:Ricciardo
+Valtteri Bottas:Valtteri Bottas
+Valtteri:Valtteri
+Bottas:Bottas
+Zhou Guanyu:Zhou Guanyu
+Zhou:Zhou
+Guanyu:Guanyu
+Alexander Albon:Alexander Albon
+Alexander:Alexander
+Albon:Albon
+Logan Sargeant:Logan Sargeant
+Logan:Logan
+Sargeant:Sargeant
+Nico Hülkenberg:Nico Hülkenberg
+Nico:Nico
+Hülkenberg:Hülkenberg
+Kevin Magnussen:Kevin Magnussen
+Kevin:Kevin
+Magnussen:Magnussen
+Oliver Bearman:Oliver Bearman
+Oliver:Oliver
+Bearman:Bearman
 
-// Roselia
-Minato：凑
-Yukina：友希那
-Hikawa：冰川
-Sayo：纱夜
-Imai：今井
-Lisa：莉莎
-Udagawa：宇田川
-Ako：亚子
-Shirokane：白金
-Rinko：燐子
 
-// Afterglow
-Mitake：美竹
-Ran：兰
-Aoba：青叶
-Moca：摩卡
-Uehara：上原
-Himari：绯玛丽
-Udagawa：宇田川
-Tomoe：巴
-Hazawa：羽泽
-Tsugumi：鸫
-
-// Pastel Palettes
-Maruyama：丸山
-Aya：彩
-Hikawa：冰川
-Hina：日菜
-Shirasagi：白鹭
-Chisato：千圣
-Yamato：大和
-Maya：麻弥
-Wakamiya：若宫
-Eve：伊芙
-
-// Hello, Happy World!
-Tsurumaki：弦卷
-Kokoro：心
-Seta：濑田
-Kaoru：薰
-Kitazawa：北泽
-Hagumi：育美
-Matsubara：松原
-Kanon：花音
-Okusawa：奥泽
-Misaki：美咲
-Michelle：米歇尔
-
-// Raise A Suilen
-Wakana：和奏
-Rei：瑞依
-Asahi：朝日
-Rokka：六花
-Satou：佐藤
-Masuki：增姬
-Nyūbara：鳰原
-Reona：玲於奈
-Tamade：珠手
-Chiyu：知优
-
-// Morfonica
-Kurata：仓田
-Mashiro：真白
-Kirigaya：桐谷
-Touko：透子
-Hiromachi：广町
-Nanami：七深
-Futaba：二叶
-Tsukushi：筑紫
-Yashio：八潮
-Rui：瑠唯
-
-// MyGO!!!!!
-Takamatsu：高松
-Tomori：灯
-Chihaya：千早
-Anon：爱音
-Kaname：要
-Raana：乐奈
-Nagasaki：长崎
-Soyo：素世
-Shiina：椎名
-Taki：立希
-Rikki：立希
-
-// Ave Mujica
-Misumi：三角
-Uika：初华
-Hatsune：初音
-Wakaba：若叶
-Mutsumi：睦
-Yahata：八幡
-Umiri：海铃
-Yuutenji：祐天寺
-Nyamu：若麦
-Togawa：丰川
-Sakiko：祥子
-Saki：祥子
-
-// Mugendai Mewtype
-Nakamachi：仲町
-Arale：阿拉蕾
-Miyanaga：宫永
-Nonoka：野乃花
-Minetsuki：峰月
-Ritsu：律
-Fuji：藤
-Miyako：都子
-Sengoku：千石
-Yuno：由乃
-
-// CHiSPA
-Umino：海野
-Natsuki：夏希
-Taiko：大湖
-Satomi：里实
-Mori：森
-Fumika：文华
-Kawabata：川端
-Mayu：真结
-
-// Glitter Green
-Ushigome：牛込
-Yuri：百合
-Nijikki：二十骑
-Hinako：雏子
-Uzawa：鹈泽
-Rii：莉
-Wanibe：鳄部
-Nanana：七菜
-
-// Sumimi
-Sumita：纯田
-Mana：真奈
-
-Tsuzuki：都筑
-Shifune：诗船
-Toyama：户山
-Asuka：明日香
-Tsukishima：月岛
-Marina：麻里奈
-
-// 地点
-Tsukinomori：月之森
-Hanasakigawa：花咲川
-Haneoka：羽丘
-Girls' Academy：女子学园
-Girls' School：女子学园
+//ABO
+Alpha:Alpha
+Beta:Beta
+Omega:Omega
+Secondary gender:第二性别
+Presentation:分化
+Differentiation:分化
+Heat:发情期
+Rut:发情潮
+Heat services:发情期服务
+Rut services:发情潮服务
+Heat suppressant :发情抑制剂
+Inhibitor:发情抑制剂
+Rut suppressant:发情潮抑制剂
+Mark / Marking:标记
+Permanent mark:永久标记
+Temporary mark:临时标记
+Pheromones:信息素
+Pheromone compatibility:信息素匹配
+Scent masking:气味覆盖
+scent cover:气味覆盖
+Mating:结合
+Bonding:交配
+Mate:伴侣
+Bondmate:伴侣
+Mpreg:生子
+Surprise heat:意外发情
+Unscheduled heat:意外发情
+Suppressants failure:抑制剂失效
